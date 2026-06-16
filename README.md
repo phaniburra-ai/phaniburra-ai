@@ -1,16 +1,40 @@
-## Hi there 👋
+# Phani Burra
 
-<!--
-**phaniburra-ai/phaniburra-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Factory Architect | NVIDIA AI Infrastructure | Agentic AI Execution
 
-Here are some ideas to get you started:
+I design enterprise AI systems that combine:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GPU infrastructure
+- Agentic AI orchestration
+- Multi-model ecosystems
+- Business execution frameworks
+
+## 🔹 Featured Work
+
+### AI Factory Design Platform
+https://aifactorydesignplatform.com
+
+Design, simulate, and evaluate enterprise AI infrastructure and AI Factory architectures with TCO, ROI, and decision modelling.
+
+## 🔹 Focus Areas
+
+- AI Infrastructure (GPU, cloud, hybrid)
+- Agentic AI systems
+- Multi-model orchestration
+- AI Factory architecture
+- Enterprise AI transformation
+
+## 🔹 Certifications
+
+- NVIDIA Certified Professional — AI Infrastructure
+- Claude Certified Architect — Foundations
+
+## 🔹 Perspective
+
+AI doesn’t just generate insights.  
+It executes.
+
+## 🔗 Links
+
+- https://aifactorydesignplatform.com
+- https://www.linkedin.com/in/phaniburra/
