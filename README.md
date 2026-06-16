@@ -43,6 +43,16 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
+## 💼 Experience Highlights
+
+- Leading enterprise AI transformation programs for Fortune-scale environments with strict reliability and uptime requirements  
+- Architecting AI-led SRE-first operating models integrating observability, AIOps, DevSecOps, and automated operations  
+- Designing agentic AI systems integrated with enterprise platforms for autonomous, governed execution  
+- Driving cloud and platform engineering transformation across multi-cloud ecosystems  
+- Building and scaling global teams across architecture, SRE, and platform engineering  
+
+---
+
 ## 🏅 Certifications (Selected)
 
 ### AI & Infrastructure
@@ -53,7 +63,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ### Cloud & Platforms
 - Microsoft Azure Solutions Architect Expert  
-- Azure OpenAI / Generative AI Solutions  
+- Azure OpenAI / Generative AI  
 - Google Cloud Business Professional  
 - Oracle Cloud Infrastructure Architect Professional  
 
@@ -62,20 +72,26 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 ## 🏢 Enterprise Systems Expertise
 
 - Oracle Cloud: ERP, HCM, Payroll, Talent, Recruiting  
-- Workday (ERP, FSCM, HRMS, Campus Solutions)  
-- Enterprise business platforms (ERP · CRM · HCM)  
-- Large-scale enterprise integrations and transformation programs  
+- Workday (FSCM, HRMS, Campus Solutions)  
+- Enterprise platforms (ERP · CRM · HCM)  
+- Large-scale enterprise transformation and integrations  
 
 ---
 
-## 💼 Experience Highlights
+## 🎓 Education
 
-- Led enterprise AI transformation programs for Fortune 50 environments with near-zero downtime requirements during global-scale events  
-- Architected AI-led, SRE-first operating models integrating observability, AIOps, DevSecOps, and automated incident management  
-- Designed agentic AI systems integrated with ERP workflows for autonomous, governed business execution  
-- Defined AI infrastructure strategies spanning GPU/HPC, hyperscalers, and enterprise platforms  
-- Delivered large-scale cloud and platform engineering transformations across multi-cloud environments  
-- Managed global teams across architecture, SRE, platform engineering, and delivery  
+- Harvard Business School — Authentic Leader Development  
+- MIT Sloan School of Management — AI: Implications for Business Strategy  
+- Master of Science (MS) — Gannon University  
+- Bachelor of Science (BS) — Sir M V Institute of Technology  
+
+---
+
+## 🌐 Leadership & Community
+
+- Harvard Business Review Advisory Council Member  
+- MIT Technology Review Global Insights Panel  
+- Governing Body Member — CIO, CISO, CDO Community (Evanta / Gartner)  
 
 ---
 
