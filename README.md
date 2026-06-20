@@ -11,7 +11,7 @@ I architect and deliver enterprise-scale AI systems operating at the intersectio
 
 ---
 
-## 🚀 Featured Platform
+##  Featured Platform
 
 ### AI Factory Design Platform  
 https://aifactorydesignplatform.com  
@@ -30,7 +30,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
-## 🧠 Areas of Focus
+##  Areas of Focus
 
 - AI Infrastructure (GPU, HPC, Cloud, Hybrid)
 - AI Factory Architecture
@@ -43,7 +43,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
-## 💼 Experience Highlights
+##  Experience Highlights
 
 - Leading enterprise AI transformation programs for Fortune-scale environments with strict reliability and uptime requirements  
 - Architecting AI-led SRE-first operating models integrating observability, AIOps, DevSecOps, and automated operations  
@@ -53,7 +53,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
-## 🏅 Certifications (Selected)
+##  Certifications (Selected)
 
 ### AI & Infrastructure
 - NVIDIA Certified Professional — AI Infrastructure  
@@ -69,7 +69,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
-## 🏢 Enterprise Systems Expertise
+##  Enterprise Systems Expertise
 
 - Oracle Cloud: ERP, HCM, Payroll, Talent, Recruiting  
 - Workday (FSCM, HRMS, Campus Solutions)  
@@ -78,7 +78,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
-## 🎓 Education
+##  Education
 
 - Harvard Business School — Authentic Leader Development  
 - MIT Sloan School of Management — AI: Implications for Business Strategy  
@@ -87,7 +87,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
-## 🌐 Leadership & Community
+##  Leadership & Community
 
 - Harvard Business Review Advisory Council Member  
 - MIT Technology Review Global Insights Panel  
@@ -95,7 +95,7 @@ https://github.com/phaniburra-ai/ai-factory-design-platform
 
 ---
 
-## 💡 Perspective
+##  Perspective
 
 Enterprise AI is moving from **experimentation → execution systems**
 
